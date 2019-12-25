@@ -102,6 +102,7 @@ body {
   #paragraph1{
     color:black;
     text-align: center;
+	  font-size:4px;
   }
   .deck .card.match {
     cursor: default;
